@@ -1,6 +1,6 @@
 Package: php5-facedetect
 Source: php5
-Version: 5.5.0-1~dotdeb.1
+Version: 5.5.0-1~one2team.1
 Architecture: amd64
 Maintainer: Johnny Funt <johnny@one2team.ru>
 Pre-Depends: dpkg (>= 1.15.7.2~)
